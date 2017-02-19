@@ -1,0 +1,14 @@
+{
+  "name": "practice-app",
+  "version": "1.0.0",
+  "description": "Practice ReactJS",
+  "main": "index.html",
+  "script": {
+    "start": "node server.js"
+  },
+  "author": "Dmitriy Barchuk",
+  "License": "MIT",
+  "devDependencies": {
+    "express": "^4.14.1"
+  }
+}
